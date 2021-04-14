@@ -1,0 +1,6 @@
+Amazon Review
+    - similarity score cases
+    - Way more complex scorings
+        - Proximity
+        - Simularity
+        - Significance
